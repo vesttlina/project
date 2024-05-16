@@ -1,0 +1,153 @@
+:root {
+  --dl-color-default-secondary3: #FFFFF4;
+};
+
+.Content {
+  font-size: 16px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.P\.Heading0 {
+  font-size: 72px;
+  font-style: normal;
+  font-family: Lalezar;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.P\.Heading1 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Lalezar;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.P\.Heading2 {
+  font-size: 32px;
+  font-style: normal;
+  font-family: Lalezar;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.P\.Heading3 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Lalezar;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.P\.Heading4 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Lalezar;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.P\.Paragraph {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Lalezar;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Heading0 {
+  font-size: 72px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Heading1 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Heading2 {
+  font-size: 32px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Heading3 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Heading4 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Paragraph {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Med\.Heading0 {
+  font-size: 72px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Med\.Heading1 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Med\.Heading2 {
+  font-size: 32px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Med\.Heading3 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 500px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Med\.Heading4 {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.Med\.Paragraph {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
